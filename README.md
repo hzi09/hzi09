@@ -21,6 +21,8 @@
 <VSCode>
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
+
+
 <Jupyter Notebook>
 <img src = "https://img.shields.io/badge/jupyter-FE7A16.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
@@ -43,5 +45,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzi09&layout=donut&hide_border=true&show_icons=true&theme=radical&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
 
+<img src="https://ghchart.rshah.org/8977ad/hzi09" />
 
   
