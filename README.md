@@ -1,6 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f6cd2,10:9976dc,30:a37fe7,75:ae89f2,100:cea7ff&height=100&section=header&text=&fontSize=0" width="100%"/>
   <div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=30&pause=1000&color=835ECD&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome!;This+is+Hyunji's+Github)](https://git.io/typing-svg)
 
 ## ✨Tech Stack✨
 
@@ -37,11 +38,10 @@
 
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hzi09&show_icons=true&theme=radical&hide_border=true&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true" width=56% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzi09&layout=donut&hide_border=true&show_icons=true&theme=radical&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+
+
+  
