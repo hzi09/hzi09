@@ -1,7 +1,6 @@
-![제목을-입력해주세요_ (2)](https://github.com/user-attachments/assets/f83263dd-5f72-41bd-977f-d3270f00dcca)
-
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
   <div>
+
 
 ## ✨Tech Stack✨
 
@@ -13,7 +12,7 @@
 
 <C>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>  
-<br/>
+
   
 
 ## 💻Tools💻
@@ -39,8 +38,10 @@
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hzi09&show_icons=true&border_color=e7daff&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=hzi09&show_icons=true&theme=radical&hide_border=true&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true" width=56% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzi09&layout=donut&show_icons=true&border_color=e7daff&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzi09&layout=donut&hide_border=true&show_icons=true&theme=radical&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
