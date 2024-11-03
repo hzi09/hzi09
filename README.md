@@ -12,8 +12,9 @@
 <img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <C>
-<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-
+<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>  
+<br/>
+  
 
 ## 💻Tools💻
 
@@ -34,3 +35,12 @@
 <notion>
 <a href="https://www.notion.so/43bb166556fd4f7a8f13d46c4f8eaad4"><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
+
+
+---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hzi09&show_icons=true&border_color=e7daff&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true" width=56% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzi09&layout=donut&show_icons=true&border_color=e7daff&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>
