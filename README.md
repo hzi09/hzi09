@@ -29,8 +29,8 @@
 <a href="https://github.com/hzi09"><img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <Naver>
-<img src = "https://img.shields.io/badge/naver-%203C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/>
+<a href="https://blog.naver.com/sophia_lee09"><img src = "https://img.shields.io/badge/naver-%203C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
 <notion>
-<img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<a href="https://www.notion.so/43bb166556fd4f7a8f13d46c4f8eaad4"><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
