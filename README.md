@@ -35,14 +35,14 @@
 <a href="https://blog.naver.com/sophia_lee09"><img src = "https://img.shields.io/badge/naver-%203C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
 <notion>
-<a href="https://www.notion.so/43bb166556fd4f7a8f13d46c4f8eaad4"><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<a href="https://www.notion.so/43bb166556fd4f7a8f13d46c4f8eaad4"><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 
 
 ---
-  <img src="https://github-readme-stats.vercel.app/api?username=hzi09&show_icons=true&theme=radical&hide_border=true&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true" width=59% />
+<img src="https://github-readme-stats.vercel.app/api?username=hzi09&show_icons=true&theme=radical&hide_border=true&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true" width=59% />
 </a> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzi09&layout=donut&hide_border=true&show_icons=true&theme=radical&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true&exclude_repo=Face-Transfer-Application" width=39% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzi09&layout=donut&hide_border=true&show_icons=true&theme=radical&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true&exclude_repo=Face-Transfer-Application" width=39% />
 </a>
 
 <img src="https://ghchart.rshah.org/8977ad/hzi09" width=100% />
