@@ -12,7 +12,16 @@
 <img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <C>
-<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>  
+<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
+
+
+<img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+<br>
+<NumPy>
+<img src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<Pandas>
+<img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 
   
 
@@ -21,10 +30,15 @@
 <VSCode>
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-
-
 <Jupyter Notebook>
 <img src = "https://img.shields.io/badge/jupyter-FE7A16.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<PyCharm>
+<img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+
+<br>
+<Maria DB>
+<img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 
 ## ✒My page✒
 
@@ -36,6 +50,7 @@
 
 <notion>
 <a href="https://www.notion.so/43bb166556fd4f7a8f13d46c4f8eaad4"><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
 
 
 
