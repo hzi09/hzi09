@@ -49,7 +49,7 @@
 <a href="https://blog.naver.com/sophia_lee09"><img src = "https://img.shields.io/badge/naver-%203C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
 <notion>
-<a href="https://www.notion.so/43bb166556fd4f7a8f13d46c4f8eaad4"><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://malachite-cub-dab.notion.site/HyunJI-s-13dc34ab1351805c8a63d383b96761a0?pvs=4"><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 
 
