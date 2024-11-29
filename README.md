@@ -52,7 +52,8 @@
 <a href="https://malachite-cub-dab.notion.site/HyunJI-s-13dc34ab1351805c8a63d383b96761a0?pvs=4"><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 
-
+## 📝coding test📝
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hzi09)](https://solved.ac/hzi09/)
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=hzi09&show_icons=true&theme=radical&hide_border=true&icon_color=ebe5f4&text_color=8977ad&title_color=c2b5da&count_private=true" width=59% />
