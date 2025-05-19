@@ -8,9 +8,6 @@
 <Pyton>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
-<SQL>
-<img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <C>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
 
@@ -24,14 +21,37 @@
 <Pandas>
 <img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 
+<langchain>
+<img src = "https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=pandas&logoColor=white">
+
+<br>
 <Django>
 <img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 
 <DjangoREST>
 <img src = "https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
 
+<Streamlit>
+<img src = "https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
 
-  
+
+## 🗃 Databases 🗃
+
+<SQL>
+<img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<Maria DB>
+<img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
+<Postgres>
+<img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<SQLite>
+<img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<DBeaver>
+<img src = "https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white"/>
+
 
 ## 💻Tools💻
 
@@ -45,25 +65,32 @@
 <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 
 <br>
-<Maria DB>
-<img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 
-<Postgres>
-<img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<Vercel>
+<img src = "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<SQLite>
-<img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<AWS>
+<img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-## ✒My page✒
-
-<github>
-<a href="https://github.com/hzi09"><img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<Naver>
-<a href="https://blog.naver.com/sophia_lee09"><img src = "https://img.shields.io/badge/naver-%203C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/></a>
+<br>
 
 <notion>
-<a href="https://malachite-cub-dab.notion.site/HyunJI-s-13dc34ab1351805c8a63d383b96761a0?pvs=4"><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/Notion-FFFFFF?&style=for-the-badge&logo=notion&logoColor=black"/>
+
+<Slack>
+<img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+
+<github>
+<img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+
+<Github Pages>
+<img src = "https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+
+<Figma>
+<img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</a>
 
 
 ## 📝coding test📝
